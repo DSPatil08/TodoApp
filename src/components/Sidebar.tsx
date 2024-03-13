@@ -320,9 +320,9 @@ export const ProfileSidebar = () => {
             <span style={{ marginLeft: "6px", marginRight: "4px" }}>by</span>
             <a
               style={{ textDecoration: "none", color: "inherit" }}
-              href="https://github.com/maciekt07"
+              href="https://github.com/DSPatil08"
             >
-              maciekt07
+              Deepak Patil
             </a>
           </CreditsContainer>
           <CreditsContainer>
